@@ -80,3 +80,59 @@
 **💡 Mnemonic:** "Derive" + "-ative." Think of a river diverging, but the water comes from the same source. 🏞️➡️  
 **👥 Family:** Imitative, unoriginal, copied  
 **⭐ Prediction:** ★★★☆☆  
+
+### Desiccate
+
+**📚 Definition:** To dry up completely.  
+**🔉 Pronunciation:** /ˈdɛsɪˌkeɪt/ (**DES-i-kayt**)  
+**📝 Example:** The hot sun began to desiccate the exposed fruit.  
+**💡 Mnemonic:** "Des-" (thoroughly) + "-iccate" (dry). Imagine a desert that thoroughly dries everything. 🌵☀️  
+**👥 Family:** Dehydrate, parch, dry  
+**⭐ Prediction:** ★★☆☆☆  
+
+### Desultory
+
+**📚 Definition:** Lacking a plan, purpose, or enthusiasm.  
+**🔉 Pronunciation:** /ˈdɛsəltəri/ (**DES-uhl-tuh-ree**)  
+**📝 Example:** His desultory comments during the meeting were unhelpful.  
+**💡 Mnemonic:** "Des-" sounds like "diss," and "-ultory" like "sultry." Imagine someone dismissing a sultry mood, killing the vibe. 🚫💃  
+**👥 Family:** Aimless, haphazard, random  
+**⭐ Prediction:** ★★☆☆☆  
+
+### Diatribe
+
+**📚 Definition:** A bitter and prolonged verbal attack.  
+**🔉 Pronunciation:** /ˈdaɪəˌtraɪb/ (**DYE-uh-tryb**)  
+**📝 Example:** The politician launched into a diatribe against his opponent.  
+**💡 Mnemonic:** "Dia-" (through) + "-tribe" (tribe). Imagine one tribe yelling across to another, non-stop. 🗣️🏹  
+**👥 Family:** Tirade, rant, harangue  
+**⭐ Prediction:** ★★★☆☆  
+
+### Dichotomy
+
+**📚 Definition:** A division into two contradictory or mutually exclusive parts.  
+**🔉 Pronunciation:** /daɪˈkɒtəmi/ (**dye-KOT-uh-mee**)  
+**📝 Example:** The dichotomy between good and evil is a common theme.  
+**💡 Mnemonic:** "Di-" (two) + "-chotomy" (cut). Imagine cutting a pie into only two pieces. 🥧✂️  
+**👥 Family:** Division, split, duality  
+**⭐ Prediction:** ★★★★☆  
+
+### Diffidence
+
+**📚 Definition:** A lack of self-confidence; shyness.  
+**🔉 Pronunciation:** /ˈdɪfɪdəns/ (**DIF-i-duhns**)  
+**📝 Example:** Her diffidence made her hesitant to speak up.  
+**💡 Mnemonic:** "Diff-" sounds like "differ," and "-dence" like "dense." Imagine a dense fog that makes you differ from acting boldly. 🌫️🤔  
+**👥 Family:** Timidity, shyness, reticence  
+**⭐ Prediction:** ★★☆☆☆  
+
+### Diffuse
+
+**📚 Definition:** Spread out over a large area; disperse.  
+**🔉 Pronunciation:** /dɪˈfjuːz/ (**di-FYOOZ**)  
+**📝 Example:** The smoke began to diffuse throughout the room.  
+**💡 Mnemonic:** "Di-" (apart) + "-fuse" (merge). Think of a fuse that splits apart and spreads the spark. 💥⚡  
+**👥 Family:** Scatter, disperse, spread  
+**⭐ Prediction:** ★★☆☆☆  
+
+I'll pause here for now. Would you like to continue with the remaining words?
