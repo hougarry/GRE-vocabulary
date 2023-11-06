@@ -55,3 +55,43 @@
 **💡 Mnemonic:** "Craven" sounds like "cave in." Imagine someone caving in under pressure. 😱🏚️  
 **👥 Family:** Cowardly, timid, pusillanimous  
 **⭐ Prediction:** ★★★☆☆
+
+**➡️vocabulary:** Calamitous
+**📚 Definition:** Involving calamity; catastrophic or disastrous.
+**🔉 Pronunciation:** /kəˈlæm.ɪ.təs/ (kuh-LAM-it-us)
+**📝 Example:** The earthquake was a calamitous event, causing widespread destruction.
+**💡 Mnemonic:** "Calamitous" sounds like "Call a miss" - "In a disaster, you'd call a miss to report the calamity."
+**👥 Family:** Disastrous, cataclysmic, devastating, tragic
+**⭐ Prediction:** ★★★★☆
+
+**➡️vocabulary:** Censor
+**📚 Definition:** An official who examines material and suppresses parts deemed offensive or a threat to security.
+**🔉 Pronunciation:** /ˈsɛn.sɔːr/ (SEN-sor)
+**📝 Example:** The censor removed all sensitive information from the document before publication.
+**💡 Mnemonic:** "Censor" has "sensor," which detects things, just as a censor looks for offensive content.
+**👥 Family:** Examiner, suppressor, editor, scrutineer
+**⭐ Prediction:** ★★★☆☆
+
+**➡️vocabulary:** Churlish
+**📚 Definition:** Rude in a mean-spirited and surly way.
+**🔉 Pronunciation:** /ˈtʃɜː.lɪʃ/ (CHUR-lish)
+**📝 Example:** It was churlish of him to refuse the invitation so bluntly.
+**💡 Mnemonic:** "Churlish" resembles "curled fish" - "Imagine a surly person as curled fish, frowning and unsociable."
+**👥 Family:** Boorish, uncivil, coarse, sullen
+**⭐ Prediction:** ★☆☆☆☆
+
+**➡️vocabulary:** Clamorous
+**📚 Definition:** Characterized by a loud noise or outcry.
+**🔉 Pronunciation:** /ˈklæm.ər.əs/ (KLAM-uh-rus)
+**📝 Example:** The crowd became clamorous when the concert was canceled.
+**💡 Mnemonic:** "Clamorous" has "clamor" in it - "A clamor for more creates a clamorous uproar."
+**👥 Family:** Noisy, vociferous, uproarious, boisterous
+**⭐ Prediction:** ★★★☆☆
+
+**➡️vocabulary:** Clandestine
+**📚 Definition:** Kept secret or done secretively, especially because illicit.
+**🔉 Pronunciation:** /klænˈdestɪn/ (kland-DEST-in)
+**📝 Example:** They carried on a clandestine affair, hidden from their families.
+**💡 Mnemonic:** "Clandestine" sounds like "clan destined" - "A secret clan is destined to operate clandestinely."
+**👥 Family:** Covert, secret, hidden, undercover
+**⭐ Prediction:** ★★★☆☆
