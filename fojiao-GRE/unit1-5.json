@@ -1,0 +1,106 @@
+
+[
+    {
+        "vocabulary": "accolade",
+        "definition": "An award or privilege granted as a special honor or as an acknowledgment of merit.",
+        "pronunciation": "/ˈækəˌleɪd/ (AK-uh-layd)",
+        "example": "The chef received an accolade for his innovative culinary creations.",
+        "etymology": "From French 'accolade' (embrace, hug) 🤗, originally referring to the ceremonial embrace in knighthood ceremonies.",
+        "mnemonic": "Sounds like 'acknowledge-laid.' Imagine being acknowledged with a medal laid on you 🏅🤗.",
+        "synonyms": ["honor", "award", "praise", "tribute", "commendation"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "roost",
+        "definition": "A place where birds rest, especially at night.",
+        "pronunciation": "/ruːst/ (ROOST)",
+        "example": "The pigeons found a roost in the old bell tower.",
+        "etymology": "From Old English 'hrōst' meaning a framework or perch for birds 🐦.",
+        "mnemonic": "Sounds like 'rest.' Birds rest in their roost 🐦😴.",
+        "synonyms": ["perch", "nest", "haven", "resting place"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "encumber",
+        "definition": "To weigh down or burden.",
+        "pronunciation": "/ɛnˈkʌmbər/ (en-KUM-ber)",
+        "example": "The hiker was encumbered by his heavy backpack.",
+        "etymology": "From Old French 'encombrer' meaning to block up, from 'en-' (in) + 'combre' (barrier) 🚧.",
+        "mnemonic": "Sounds like 'in-cumber.' Imagine being burdened in a cucumber field 🥒🚶‍♂️.",
+        "synonyms": ["burden", "hinder", "hamper", "impede", "obstruct"],
+        "prediction": "★★☆☆☆"
+    },
+    {
+        "vocabulary": "conducive",
+        "definition": "Making a certain situation or outcome likely or possible.",
+        "pronunciation": "/kənˈdjuːsɪv/ (kun-DOO-siv)",
+        "example": "A quiet room is conducive to studying.",
+        "etymology": "From Latin 'conducere' meaning to bring together or lead together 🤝.",
+        "mnemonic": "Sounds like 'conduct-us-live.' Imagine a situation that conducts us to live better 🤝🌟.",
+        "synonyms": ["favorable", "beneficial", "helpful", "advantageous", "propitious"],
+        "prediction": "★★★☆☆"
+    },
+    {
+        "vocabulary": "caterwaul",
+        "definition": "To make a shrill howling or wailing noise.",
+        "pronunciation": "/ˈkætərwɔːl/ (KAT-er-wawl)",
+        "example": "The cats would caterwaul outside my window every night.",
+        "etymology": "From Middle English 'caterwrawen,' likened to the wailing of cats 🐱🌙.",
+        "mnemonic": "Sounds like 'cat-er-wail.' Imagine cats wailing and howling 🐱🎶.",
+        "synonyms": ["howl", "wail", "screech", "yowl", "shriek"],
+        "prediction": "★☆☆☆☆"
+    },
+
+        {
+            "vocabulary": "disdain",
+            "definition": "The feeling that someone or something is unworthy of one's consideration or respect.",
+            "pronunciation": "/dɪsˈdeɪn/ (dis-DAYN)",
+            "example": "She looked at the messy room with disdain.",
+            "etymology": "From Middle English 'desdeinen,' from Old French 'desdaigner,' from Latin 'dedignari' (de- 'down' + dignari 'deem worthy') 🚫👑.",
+            "mnemonic": "Sounds like 'dis-dane.' Imagine 'dis' respecting the 'Dane' (a person from Denmark) 🚫🇩🇰.",
+            "synonyms": ["contempt", "scorn", "derision", "disparagement", "disregard"],
+            "prediction": "★★★☆☆"
+        },
+        {
+            "vocabulary": "analgesic",
+            "definition": "A drug used to relieve pain.",
+            "pronunciation": "/ˌænəlˈdʒiːzɪk/ (an-al-JEE-zik)",
+            "example": "Aspirin is a common analgesic.",
+            "etymology": "From Greek 'analgesia' (an- 'without' + algesis 'sense of pain') 💊🚫.",
+            "mnemonic": "Sounds like 'Anna-lease-sick.' Imagine Anna releasing (leasing) pain (sick) 💊🚫.",
+            "synonyms": ["painkiller", "pain reliever", "sedative", "anodyne"],
+            "prediction": "★★☆☆☆"
+        },
+        {
+            "vocabulary": "contemplate",
+            "definition": "To think about something deeply and thoroughly.",
+            "pronunciation": "/ˈkɒntəmpleɪt/ (KON-təm-playt)",
+            "example": "He sat by the window to contemplate his future.",
+            "etymology": "From Latin 'contemplari' (com- 'with' + templum 'place for observation') 🤔👁️.",
+            "mnemonic": "Sounds like 'contemplate.' Imagine contemplating in a temple 🤔🏛️.",
+            "synonyms": ["ponder", "consider", "reflect on", "mull over", "meditate"],
+            "prediction": "★★★☆☆"
+        },
+        {
+            "vocabulary": "embargo",
+            "definition": "An official ban on trade or other commercial activity with a particular country.",
+            "pronunciation": "/ɛmˈbɑːɡəʊ/ (em-BAR-go)",
+            "example": "The country imposed an embargo on imported goods.",
+            "etymology": "From Spanish 'embargo' meaning a seizure, a ban, from 'em- (en-) + barra' (bar) ⛔🚢.",
+            "mnemonic": "Sounds like 'em-bar-go.' Imagine a bar being told to go because of a ban ⛔🍷.",
+            "synonyms": ["ban", "prohibition", "restriction", "blockade", "stoppage"],
+            "prediction": "★★☆☆☆"
+        },
+        {
+            "vocabulary": "pedant",
+            "definition": "A person who is excessively concerned with minor details and rules or with displaying academic learning.",
+            "pronunciation": "/ˈpedənt/ (PED-ant)",
+            "example": "The professor was criticized for being a pedant in his lectures.",
+            "etymology": "From French 'pédant' or Italian 'pedante,' possibly from 'pedagogare' (to teach, to act as pedagogue) 📚🔍.",
+            "mnemonic": "Sounds like 'ped-ant.' Imagine an ant fussing over small details 🐜📏.",
+            "synonyms": ["purist", "stickler", "dogmatist", "perfectionist", "scholar"],
+            "prediction": "★★☆☆☆"
+        }
+
+    
+]
