@@ -1,6 +1,5 @@
 
-<h1 align="center"><strong>Guangyu Hou</strong></h1>
-
+<p align="center"><strong style="font-size: 22px;">Guangyu Hou</strong></p>
 <p align="center">            
             <a href="https://hougarry.github.io/"><i class="fa-solid fa-house"></i> Homepage</a>
             |   <a href=mailto:“houguangyu@ustc.edu”><i class="fa-solid fa-envelope"></i> E-Mail</a>
