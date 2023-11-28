@@ -17,11 +17,9 @@
 - **Relevant Coursework**: Basis of Computer Engineering, Calculus, Linear Algebra, Statistics, Probability Theory & Mathematical Statistics
 
 ## Work/Intern Experience
-### Freelancer   |   Finance Tutor   |   Mar 2022 - Present
+### Freelancer   |   Finance Tutor   |    2022 - Present
 - Tutor for students preparing for Chinese Graduates Exams in Finance.
-
-### Research Assistant, University of Science and Technology of China   |   Jul 2021 - 2022
-- Assisted in multiple research projects, including literature review, data collection and processing, and article publication.
+- ChatGPT relevant services
 
 ### Investment Banking Department Intern, GuoYuan Securities Company Limited   |   Mar 2020 - Aug 2020
 - Participated in IPO projects; conducted contract reviews, inventory counts, bank and customer inquiries, and verification of senior management's bank transactions.
