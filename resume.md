@@ -1,8 +1,8 @@
 
 <p align="center"><strong style="font-size: 22px;">Guangyu Hou</strong></p>
-<p align="center">            
+<p align="center"> 
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
             <a href="https://hougarry.github.io/"><i class="fa-solid fa-house"></i> Homepage</a>
-            |   <a href=mailto:“houguangyu@ustc.edu”><i class="fa-solid fa-envelope"></i> E-Mail</a>
             |  <a href="https://github.com/hougarry"><i class="fa-brands fa-github"></i> Github</a>
             |  <a href="https://hougarry.github.io/projects/"><i class="fa-solid fa-bars-progress"></i> Projects</a>
 </p>
@@ -15,6 +15,35 @@
 ### North University of China   |   Bachelor of Economic Statistics   |   Sept 2012 - Jul 2016
 - **Honors/Awards**: Outstanding League Cadres, Debate Competition Excellent, Speech Contest Outstanding, Excellent Debate Instructor
 - **Relevant Coursework**: Basis of Computer Engineering, Calculus, Linear Algebra, Statistics, Probability Theory & Mathematical Statistics
+
+## Recent Projects
+
+### Tech Stack
+- **Web Development**: HTML, CSS, JavaScript, Python, Java
+- **Statistical Tools**: Stata, Eviews, R, Matlab, SPSS
+### [Projects](https://hougarry.github.io/projects/)
+- **Description**: A collection of my projects.
+- **Tech Stack**:
+  - [Frontend](https://hougarry.github.io/projects/): HTML, CSS, Bootstrap, Sass, JavaScript
+  - Deploy: Github Pages
+
+### [Django-Portfolio](http://159.233.207.23:8000/)
+- **Description**: A portfolio website based on the Django framework.
+- **Tech Stack**:
+  - [Frontend](http://159.233.207.23:8000/): HTML, CSS, Bootstrap, Sass, JavaScript
+  - [Backend](http://159.223.207.23:8000/admin/login/?next=/admin/):Django
+  - Account: Login-Username: demo, Password: demo123456
+  - Database: Django default database - SQLite
+  - Deploy: Ubuntu + Gunicorn + Nginx (Docker Image)
+
+### [CryptoDashboard](http://159.223.207.23:3000/)
+- **Description**: A web dashboard for cryptocurrency exchange rates and news, with API from RapidAPI.
+- **Tech Stack**:
+  - [Frontend](http://159.223.207.23:3000/): React.js, Bootstrap, Sass
+  - [Backend](http://159.223.207.23:4000/): Node.js
+  - [Database](http://159.223.207.23:4000/news): JSON
+  - Deploy: Ubuntu + PM2
+
 
 ## Work/Intern Experience
 ### Freelancer   |   Finance Tutor   |    2022 - Present
@@ -33,31 +62,6 @@
 
 ### Debater/Team Coach, Debate Team, North University of China   |   Sept 2012 - Jul 2015
 - Achieved various accolades including excellent debater and championship team coach.
-
-
-## Recent Projects
-
-### Technical Skills
-- **Web Development**: HTML, CSS, JavaScript, Python, Java
-- **Statistical Tools**: Stata, Eviews, R, Matlab, SPSS
-
-### [Django-Portfolio](https://hougarry.github.io/projects/django-portfolio)
-- **Description**: A portfolio website based on the Django framework.
-- **Tech Stack**:
-  - [Frontend](http://159.233.207.23:8000/): HTML, CSS, Bootstrap, Sass, JavaScript
-  - [Backend](http://159.223.207.23:8000/admin/login/?next=/admin/):Django
-  - Account: Login-Username: demo, Password: demo123456
-  - Database: Django default database - SQLite
-  - Deploy: Ubuntu + Gunicorn + Nginx (Docker Image)
-
-### [CryptoDashboard](https://hougarry.github.io/projects/cryptodashboard)
-- **Description**: A web dashboard for cryptocurrency exchange rates and news, with API from RapidAPI.
-- **Tech Stack**:
-  - [Frontend](http://159.223.207.23:3000/): React.js, Bootstrap, Sass
-  - [Backend](http://159.223.207.23:4000/): Node.js
-  - [Database](http://159.223.207.23:4000/news): JSON
-  - Deploy: Ubuntu + PM2
-
 
 
 ## Additional Skills and Achievements
