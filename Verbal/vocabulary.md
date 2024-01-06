@@ -164,4 +164,146 @@
     "vocabulary": "transcend",
     "etymology": "transcendere 'to climb over or beyond' 🏔️🚀",
     "mnemonic": "Relate to 'trans-beyond-ascend'. Transcend is like ascending beyond the ordinary limits, surpassing or going beyond usual limits 🌌🧗‍♂️",
-}
+},
+{
+    "vocabulary": "Furtive",
+    "etymology": "furtivus 'stealthy, secret' 🤫🕵️‍♂️",
+    "mnemonic": "Relate to 'fur-to-cover'. Furtive is like using fur to cover your actions, secretive or sneaky 🐾🚪",
+},
+{
+    "vocabulary": "Serendipity",
+    "etymology": "Serendip 'Sri Lanka' + -ity 'quality of' 🇱🇰✨",
+    "mnemonic": "Think 'Serendip-city'. Serendipity is like finding unexpected happiness in the city of Serendip, the occurrence of happy accidents 🍀🌆",
+},
+{
+    "vocabulary": "Morbid",
+    "etymology": "morbidus 'sickly, diseased' 💀🤒",
+    "mnemonic": "Connect with 'more-bid'. Morbid is like wanting more bites of a gruesome topic, showing an unhealthy interest in disturbing subjects 🧟‍♂️🍔",
+},
+{
+    "vocabulary": "Hallucinations",
+    "etymology": "hallucinari 'to wander in mind' 👁️🌀",
+    "mnemonic": "Relate to 'hallelujah-visions'. Hallucinations are like seeing 'hallelujah' moments, perceiving things that aren't really present 🕊️👀",
+},
+{
+    "vocabulary": "Inexorable",
+    "etymology": "in- 'not' + exorabilis 'able to be entreated' 🚫🙏",
+    "mnemonic": "Think 'in-not-ex-out-oral'. Inexorable is like not able to be persuaded or moved by any outside or oral appeal, unyielding or relentless 🗣️🚧",
+},
+{
+    "vocabulary": "Lenient",
+    "etymology": "lenire 'to soften' 🌬️🤲",
+    "mnemonic": "Connect with 'lenis-weak'. Lenient is like being more lax or weak in discipline, showing mercy or tolerance 🍃🚫",
+},
+{
+    "vocabulary": "Siphon",
+    "etymology": "siphon 'tube, pipe' 🚰🌀",
+    "mnemonic": "Think 'sip-horn'. Siphon is like using a horn to sip or drain off liquid, transferring by means of a tube 🧃🔁",
+},
+{
+    "vocabulary": "Cement",
+    "etymology": "caementum 'chipped stone, rubble' 🏗️🧱",
+    "mnemonic": "Relate to 'c-ment'. Cement is like a 'ment' or mixture for building, a binding substance used in construction 🚧🔨",
+},
+{
+    "vocabulary": "Insinuate",
+    "etymology": "in- 'into' + sinus 'fold, bend' 🐍🔀",
+    "mnemonic": "Connect with 'in-sin-uate'. Insinuate is like twisting into a 'sin' curve, subtly implying or suggesting something 🌀💬",
+},
+{
+    "vocabulary": "Corollary",
+    "etymology": "corollarium 'a garland, gift' 🌸➕",
+    "mnemonic": "Think 'co-roll-ary'. Corollary is like rolling together conclusions, a natural consequence or result 🔄🧠",
+},
+{
+    "vocabulary": "Peremptory",
+    "etymology": "per- 'thoroughly' + emere 'to take' 👑🚫",
+    "mnemonic": "Relate to 'per-empt-take'. Peremptory is like taking control thoroughly, admitting no contradiction or refusal 🚦🤐",
+},
+{
+    "vocabulary": "Tenable",
+    "etymology": "tenere 'to hold' 🤝🔒",
+    "mnemonic": "Connect with 'ten-hold'. Tenable is like being able to hold onto ten things, defendable or reasonable in theory 🏋️‍♂️💭",
+},
+{
+    "vocabulary": "Tinker",
+    "etymology": "tinkeren 'to work with metal' 🔧🔩",
+    "mnemonic": "Think 'tink-er'. Tinker is like a worker who 'tinks' or fiddles with small repairs or adjustments 🛠️🧰",
+},
+{
+    "vocabulary": "Obsequious",
+    "etymology": "obsequium 'compliance' 🐶👣",
+    "mnemonic":
+
+ "Relate to 'ob-sequ-follow'. Obsequious is like overly following orders, showing servile compliance or deference 🚶‍♂️🙇‍♂️",
+},
+{
+    "vocabulary": "Glut",
+    "etymology": "glutire 'to swallow' 🍔📈",
+    "mnemonic": "Think 'gain-lot'. Glut is like gaining a lot, an excessive supply or overabundance 📦🌍",
+},
+{
+    "vocabulary": "Anodyne",
+    "etymology": "anodynus 'pain-relieving' 💊😌",
+    "mnemonic": "Connect with 'no-die'. Anodyne is like something that ensures you won't die of pain, soothing or pain-relieving 🚑❤️",
+},
+{
+    "vocabulary": "Hubris",
+    "etymology": "hybris 'excess' 🌟🚫",
+    "mnemonic": "Relate to 'hub-rise'. Hubris is like the ego rising in the center hub, excessive pride or self-confidence 😎🌇",
+},
+{
+    "vocabulary": "Guzzle",
+    "etymology": "guzzle 'to drink greedily' 🍺💨",
+    "mnemonic": "Think 'Gz-Gz'. Guzzle is like the sound 'Gz Gz' when greedily drinking or consuming something 🥤🔊",
+},
+{
+    "vocabulary": "Oblique",
+    "etymology": "obliquus 'slanting, sidelong' 📐🚫",
+    "mnemonic": "Connect with 'ob-liqu-lean'. Oblique is like leaning in an obscure way, not straightforward or direct 📉🔄",
+},
+{
+    "vocabulary": "Plebeian",
+    "etymology": "plebeius 'common, vulgar' 👥🏙️",
+    "mnemonic": "Think 'plenty of beings'. Plebeian is like the common people, the general populace or ordinary citizens 🚶‍♂️🌃",
+},
+{
+    "vocabulary": "Adjourn",
+    "etymology": "ad 'to' + journus 'day' 📆🛑",
+    "mnemonic": "Relate to 'ad-journ-date'. Adjourn is like moving a meeting to another date, to suspend proceedings to a later time 🕒🗓️",
+},
+{
+    "vocabulary": "Assail",
+    "etymology": "assalire 'to leap at' 🦁🎯",
+    "mnemonic": "Connect with 'as-sail-jump'. Assail is like jumping to sail or attack, to leap at aggressively or critically 🚀🚨",
+},
+{
+    "vocabulary": "Maniac",
+    "etymology": "mania 'madness' 🌀😵",
+    "mnemonic": "Think 'many-act-crazy'. Maniac is like someone who acts in many crazy ways, exhibiting wild or violent behavior 🎭🌪️",
+},
+{
+    "vocabulary": "Exiguous",
+    "etymology": "exiguus 'small, meager' 🐜🔍",
+    "mnemonic": "Relate to 'exit-small'. Exiguous is like being so small it's near the exit, extremely scanty or minimal 🚪✂️",
+},
+{
+    "vocabulary": "Apogee",
+    "etymology": "apo 'away from' + ge 'earth' 🌍🚀",
+    "mnemonic": "Connect with 'apo-gee-earth'. Apogee is like being at the highest point away from Earth, the farthest or highest point 🌌🔝",
+},
+{
+    "vocabulary": "Perigee",
+    "etymology": "peri 'near' + ge 'earth' 🌍🌑",
+    "mnemonic": "Think 'peri-gee-earth'. Perigee is like being at the closest point near Earth, especially in the orbit of the moon or a satellite 🌔🌍",
+},
+{
+    "vocabulary": "Extenuate",
+    "etymology": "extenuare 'to make thin' 📉🧵",
+    "mnemonic": "Relate to 'ex-ten-u-ate'. Extenuate is like making ten things thin, to lessen the severity or diminish the seriousness 📚🚫",
+},
+{
+    "vocabulary": "adroit",
+    "etymology": "à droit 'according to right' 👌🧠",
+    "mnemonic": "Connect with 'a-droit'. Adroit is like being right in action, skilled or clever in using the hands or mind 🤹‍♂️👍","
+},
