@@ -15,3 +15,8 @@ To calculate the total charge for a 16.25-mile ride by the taxi company, let's b
    - Adding the first mile charge: $24.64 + $2.80 = $27.44.
 
 Thus, the total amount that the taxi company charges for a 16.25-mile ride is **$27.44**.
+
+
+Someone needs to import a number of sets ofbottles. Each bottle charges $12.04, and it alsocharges $4.8 for shipping each set (not singlebottle but a whole set). The standard deviation ofnumbers of bottles in each set is 1.5. What is thestandard deviation of the prices for each set?
+
+12.04 * 1.5 = 18.06
